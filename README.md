@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjiSantosoIND
-- 👀 I’m interested in android and iOS development
+- 👀 I’m focusing on Android and iOS development
 - 🌱 I’m currently learning how to manage time better
 - 📫 How to reach me ajisantooso@gmail.com
 
